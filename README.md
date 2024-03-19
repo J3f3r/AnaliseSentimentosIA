@@ -20,22 +20,28 @@ O Processamento de Linguagem Natural (PNL) é um ramo da IA ​​que lida com a
 
 
 ![alt text]((2).png)
+
 Copie e cole ou digite seu próprio texto e limpe a caixa de texto para novas análises.
 
 
 ![alt text]((3).png)
+
 Carregue um arquivo se preferir, confirme e aceite que ocorrerá um custo e execute.
 
 ![alt text](4.png)
+
 A análise é feita em cada frase minerando termos e palavras chaves, tendo como resultado uma portcentagem para positivo, negativo e neutro
 
 ![alt text](<4 (1).png>)
+
 Logo no início é o mostrado o sentimento do texto inteiro. 
 
 ![alt text]((1)-1.png)
+
 E depois o sentimento de cada frase.
 
 ![alt text](print-1.png)
+
 Análise de palavras chaves.
 
 Em uma rede nacional ou mundial como a de hotéis por exemplo, essa ferramenta de análise de sentimentos se faz totalmente necessária e eficaz onde a avaliação do anfitrão fará diferença na hora de alugar um quarto.
